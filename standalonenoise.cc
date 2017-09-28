@@ -8,6 +8,9 @@
 // of 9596 ticks. This corresponds to a sideband magnitude of ~60 in the 
 // feequency domain
 //
+// Author: Adam Lister
+// Email : a.lister1@lancaster.ac.uk
+//
 
 void GenNoisePostFilter(double wirelength, double ENOB, TFile* f_output)
 {
